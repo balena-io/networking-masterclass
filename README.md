@@ -6,14 +6,14 @@
 # Prerequisite Classes
 
 This masterclass builds upon knowledge that has been taught in previous classes.
-To gain the most from this masterclass, we reommend that you first undertake
+To gain the most from this masterclass, we recommend that you first undertake
 the following masterclasses:
 
 * [List of hyperlinked masterclasses](https://hyperlinkedmasterclasses)
-[End: Optional Depending on Prequisites]
+[End: Optional Depending on Prerequisites]
 
-**Masterclass Type:** <Core/Deepdive>
-**Maximum Expected Time To Complete:** <Time in minutes>
++ **Masterclass Type:** <Core/Deepdive>
++ **Maximum Expected Time To Complete:** <Time in minutes>
 
 # Introduction
 
