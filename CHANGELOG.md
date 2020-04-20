@@ -4,4 +4,9 @@
 
 ## 0.0.3 - 2020-03-12
 
+# v0.0.4
+## (2020-04-20)
+
+* remove hedss as codeowner [Matthew McGinn]
+
 * Minor spelling/formatting updates [Matthew McGinn]
